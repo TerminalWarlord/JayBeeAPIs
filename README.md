@@ -6,10 +6,10 @@ The Following Repository Contains All The APIs that I have Developed
 ``Please don't abuse these APIs.``
 ### Show some :heart: and :star: the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/joybiswas390/jaybeeapis.svg?style=social&label=Star)](https://github.com/joybiswas390/JayBeeAPIs) ![GitHub followers](https://img.shields.io/github/followers/joybiswas390.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/TerminalWarlord/jaybeeapis.svg?style=social&label=Star)](https://github.com/TerminalWarlord/JayBeeAPIs) ![GitHub followers](https://img.shields.io/github/followers/TerminalWarlord.svg?style=social&label=Follow)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/JayBeeBots)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/joybiswas390/JayBeeAPIs)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TerminalWarlord/JayBeeAPIs)
 
 ---
 #### **If you make something useful using these APIs feel free to add your amazing work in `Made using JayBee APIs` section and send a pull request.**
